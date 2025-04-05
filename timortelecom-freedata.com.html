@@ -53,7 +53,7 @@
         <link rel="shortcut icon" type="image/png" href="ii.jpeg" />
         <meta name="og:title" content="Timor Telecom - CARTÃO SIM ANTIGO 3G OU 4G RECOMPENSA DE DADOS" />
         <meta property="og:description" content="Timor Telecom está oferecendo dados gratuitos para todos os cartões SIM antigos" />
-        <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxYAIzQhSyhhNbotnHq58WW5MDf4H-bc-SewsUJZzOY46Bv-3d-SDXrgfL8AFPsbCu7SbwMiE3L5QXbWzTJXkv49GwhrkXjxUhZL1qlFkP2lszWUmDSIGYFP255WHCmxmTw-S6KsDMiF52lPC1ONs0NGVMABqCYzvzHwx_E9_wvgorVfGI4d1a66NmGvNw/s320/InShot_20250205_233658990.jpg" />
+        <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNyB6hVCVCt1P0X4TOlZe_sx3BoIIB6xkxYGdj7j1hP1wgnecMVnypbbKJXTyzuKOxOmy0zB87nybLBriHi2lIGmH6tlow2YtzRoiBcF7Za71s85MGnhU50uKK3w2wcENIhlSSWzYvaWOeBTQ6QNaG2vf6EzVpmfcKjna74SqtHjUaHCJZlfNTLVXA8NjY/s320/InShot_20250405_203035908.jpg" />
         <meta property="og:type" content="website" />
     <meta property="og:updated_time" content="1440432930" />
     <link rel="me" href="https://www.blogger.com/profile/13809910274301822692" />
@@ -351,7 +351,7 @@ button:hover {
 </style>
   
   
-  <center><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbQUPoH8q0BqRFPIZzsSxxjQPQMfYWjvCuXMA0Q628UX7fACGoIMtpgz79GZrg-VaKg-j7A0UcDfsSgtv21-nUypVAnQxvNU9DGNDm_V3vTXU-JIbDLqR1yYSaregxA9TsdV1repuJs25gQ71hZuiHwfobblodAK9cLAWVbdwmi0_8z5FTJKaLaVSIq-5i/s320/Timor Telecom%20guinea.webp" alt="Free-Data" style="width: 100%;">
+  <center><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcPRnYXIZ25g2uMoujWky3OLMolkKKdML2ZXmyMvAyZsoKZngulxBzP7vLdhnqD56J1nPAPspudd8BQahYuaQQg28M1xZgFFlbRiljXCd__7dsrcps8zthAErfy_KUj2FiANnlBTGv7-fCGcvJO7hjT5ic6jDeO9oDgyGH2T3_HxV1H8G0vWj3yF6v6nt9/s320/images%20-%202025-04-05T201751.416.jpeg" alt="Free-Data" style="width: 100%;">
       
                      </center>
   
@@ -394,7 +394,7 @@ button:hover {
 
   
                         <div class="A">
-                        <font color="white">  Prezado cliente, por favor, confirme seu número Timor Telecom para ativar seus dados gratuitos </font><br/> <b><font color="white">PRAZO FINAL:</font></b> <span class="blink"><b><font color="#010101">13 de abril</font></b> </span><font color="white">Digite seu número Timor Telecom abaixo e clique <b></b>VERIFICAR</b></font>
+                        <font color="white">  Prezado cliente, por favor, confirme seu número Timor Telecom para ativar seus dados gratuitos </font><br/> <b><font color="white">PRAZO FINAL:</font></b> <span class="blink"><b><font color="#010101">30 de abril</font></b> </span><font color="white">Digite seu número Timor Telecom abaixo e clique <b></b>VERIFICAR</b></font>
          </div>
     <div class="post" width="100%">
 
@@ -511,7 +511,7 @@ button:hover {
           
           
               </div>
-        <center><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitvPL7kst704htwtgjxvp3WAqMfTJxbcnhLl0oJGNmzRBueiAcnyWH1q4Hn9k8E6hTaZlFr73waFdQavDuLj-btr7TixfcNVrW8i-AD0c6IgFZO25WoWxdrli7_JENnMZR0yTvDS7U94796t-1KeQ_DkYEmSW8nNZYQxC6PSYBkjUqqS2tsseFePheHm3a/s320/unnamed.jpg" alt="Free-Data" style="width: 100%;">
+        <center><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm9NbU5rkr30rkpfgHepD8DjGGtDBwnkRERjn6bnG51Jr5FnLrYPG_8odApsTN4d4k4pvmnfMlfOKEzncCO7uwTc5noObmW4k6Gc0ckjguauqJ4lPMkJPknZPyidb0OiLkm-8W6beehOAx4KImt4v-dGdWjUaLuFgvX-ni3tEfga0DO3VbiQZeqeIhv4lV/s320/images%20-%202025-04-05T201137.513_1.jpeg" alt="Free-Data" style="width: 100%;">
       
                      </center>
             </div>
